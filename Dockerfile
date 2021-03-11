@@ -1,4 +1,4 @@
-FROM ubuntu:18.04
+FROM ubuntu:cosmic
 
 MAINTAINER Couchbase Docker Team <docker@couchbase.com>
 
